@@ -20,6 +20,7 @@ g++ -o hotel_management hotel_management.cpp
 ## Usage
 Run the Application:  
 ./hotel_management  
+
 Follow the Menu:
 1. Add Guest: Enter the guest's name and assign them a room.
 2. Display Guests: View all currently checked-in guests and their room numbers.
