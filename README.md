@@ -12,14 +12,14 @@ Room Management: Allows for the removal of unreserved rooms to keep the system u
 
 ## Installation
 Clone the Repository:  
-git clone https://github.com/Nagathejas-M-S/HotelHub-A-Comprehensive-Hotel-Management-System.git
-cd hotelhub
-Compile the Code:
+git clone https://github.com/Nagathejas-M-S/HotelHub-A-Comprehensive-Hotel-Management-System.git  
+cd hotelhub  
+Compile the Code:  
 g++ -o hotel_management hotel_management.cpp
 
 ## Usage
-Run the Application:
-./hotel_management
+Run the Application:  
+./hotel_management  
 Follow the Menu:
 1. Add Guest: Enter the guest's name and assign them a room.
 2. Display Guests: View all currently checked-in guests and their room numbers.
