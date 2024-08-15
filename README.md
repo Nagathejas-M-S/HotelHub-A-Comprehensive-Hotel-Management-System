@@ -12,7 +12,7 @@ Room Management: Allows for the removal of unreserved rooms to keep the system u
 
 ## Installation
 Clone the Repository:  
-git clone https://github.com/yourusername/hotelhub.git
+git clone https://github.com/Nagathejas-M-S/HotelHub-A-Comprehensive-Hotel-Management-System.git
 cd hotelhub
 Compile the Code:
 g++ -o hotel_management hotel_management.cpp
